@@ -1,6 +1,6 @@
 ### Install
 ```
-npm install 
+npm install scraping-currency-rate-thai --save
 ```
 
 ### Test 
